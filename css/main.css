@@ -7,6 +7,14 @@ th{
     background: #93C47D;
     color: white;
 }
+thead{
+    background: #93C47D;
+    color: white;
+}
+.tableHead{
+    background: #93C47D;
+    color: white;
+}
 tbody{
     color: #FF9900;
 }
