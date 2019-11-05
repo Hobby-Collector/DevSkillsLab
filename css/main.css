@@ -1,0 +1,16 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+th{
+    background: #93C47D;
+    color: white;
+}
+tbody{
+    color: #FF9900;
+}
+input{
+    border: solid 2px #93C47D;
+    
+}
